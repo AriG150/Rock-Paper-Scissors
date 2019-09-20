@@ -1,0 +1,15 @@
+*{
+    text-align: center;
+}
+
+
+div {
+    width: 50%;
+}
+
+
+.title {
+    background:lightblue;
+    padding: 1em;
+    text-align: center;
+}
